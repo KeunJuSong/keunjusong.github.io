@@ -1,0 +1,24 @@
+title: "Keunju Song"
+name: "Keunju Song"
+description: "Energy AI, power systems, graph learning, and grid foundation models."
+url: "https://keunjusong.github.io"
+baseurl: ""
+repository: "KeunJuSong/keunjusong.github.io"
+locale: "en-US"
+markdown: kramdown
+include:
+  - _pages
+exclude:
+  - README.md
+  - Gemfile
+author:
+  avatar: "/images/profile.svg"
+  name: "Keunju Song"
+  bio: "Simple but effective AI for large-scale power systems."
+  location: "Seoul, Republic of Korea"
+  employer: "Sogang University · NICELAB"
+  email: "kjsong4089@gmail.com"
+  googlescholar: "https://scholar.google.com/citations?hl=en&sortby=pubdate&user=GDqbR3IAAAAJ&view_op=list_works"
+  github: "https://github.com/KeunJuSong"
+  linkedin: "https://www.linkedin.com/in/keunjusong4089"
+  orcid: "https://orcid.org/0000-0001-9432-4433"
