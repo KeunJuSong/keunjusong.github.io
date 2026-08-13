@@ -36,22 +36,8 @@ I received my B.S. degree in Electronic Engineering from the **Tech University o
 {: #experience }
 
 <div class="exp-cards">
-  <div class="exp-card exp-card-with-logo">
-    <img class="exp-logo" src="/images/logos/argonne.svg" alt="Argonne National Laboratory" />
-    <div class="exp-card-body">
-      <div class="exp-card-header"><span class="exp-role">Visiting Graduate Student</span><span class="exp-date">2025</span></div>
-      <div class="exp-org">Argonne National Laboratory · Mathematics and Computer Science Division</div>
-      <div class="exp-authors">Physics-informed graph learning, hierarchical federated learning, and grid foundation models for AC-OPF.</div>
-    </div>
-  </div>
-  <div class="exp-card exp-card-with-logo">
-    <img class="exp-logo" src="/images/logos/sogang.svg" alt="Sogang University" />
-    <div class="exp-card-body">
-      <div class="exp-card-header"><span class="exp-role">Ph.D. Candidate · Electronic Engineering</span><span class="exp-date">2021 – Present</span></div>
-      <div class="exp-org">Sogang University · NICELAB</div>
-      <div class="exp-authors">Energy AI, power-system optimization, graph neural networks, and renewable-energy forecasting.</div>
-    </div>
-  </div>
+  <div class="exp-card"><div class="exp-card-header"><span class="exp-role">Visiting Graduate Student</span><span class="exp-date">2025</span></div><div class="exp-org">Argonne National Laboratory · Mathematics and Computer Science Division</div><div class="exp-authors">Physics-informed graph learning, hierarchical federated learning, and grid foundation models for AC-OPF.</div></div>
+  <div class="exp-card"><div class="exp-card-header"><span class="exp-role">Ph.D. Candidate · Electronic Engineering</span><span class="exp-date">2021 – Present</span></div><div class="exp-org">Sogang University · NICELAB</div><div class="exp-authors">Energy AI, power-system optimization, graph neural networks, and renewable-energy forecasting.</div></div>
 </div>
 
 ## Publications
