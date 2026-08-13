@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /publications/
+title: "Publications"
+---
+
+# Publications
+
+For the latest citation record, see my [Google Scholar](https://scholar.google.com/citations?hl=en&sortby=pubdate&user=GDqbR3IAAAAJ&view_op=list_works).
+
+<div class="exp-cards">
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">SABLE: GPU-Based Power Flow Accelerator for Sparsity-Aware Batched Learning</span><span class="exp-date">2026</span></div><div class="exp-org">arXiv preprint <a class="paper-tag" href="https://arxiv.org/abs/2606.07099">Paper</a></div><div class="exp-authors">Suho Park, <span class="self-author">Keunju Song</span>, Hongseok Kim</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">Physics-Informed Graph Learning Acceleration for Large-Scale AC-OPF with Topology Changes</span><span class="exp-date">2026</span></div><div class="exp-org">ICML 2026 Workshop on AI4Science <a class="paper-tag" href="https://arxiv.org/abs/2606.05772">Paper</a></div><div class="exp-authors"><span class="self-author">Keunju Song</span>, Kyungnam Park, Sua Choi, Seunguk Kim, Tae-un Kim, Youngmin Choi, Sang-Won Min, Hongseok Kim</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">LUMINA: A Grid Foundation Model for Benchmarking AC Optimal Power Flow Surrogate Learning</span><span class="exp-date">2026</span></div><div class="exp-org">arXiv preprint <a class="paper-tag" href="https://arxiv.org/abs/2605.02133">Paper</a></div><div class="exp-authors">Hongwei Jin, <span class="self-author">Keunju Song</span>, Zeeshan Memon, Yijiang Li, Stefano Fenu, Hongseok Kim, Liang Zhao, Kibaek Kim</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">LUMINA: Foundation Models for Topology Transferable ACOPF</span><span class="exp-date">2026</span></div><div class="exp-org">ICLR 2026 Workshop on Foundation Models for Science <a class="paper-tag" href="https://arxiv.org/abs/2603.04300">Paper</a></div><div class="exp-authors">Yijiang Li, Zeeshan Memon, Hongwei Jin, Stefano Fenu, <span class="self-author">Keunju Song</span>, et al.</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">Foreseeable Implicit Training for ESS Operation based on Deep Reinforcement Learning</span><span class="exp-date">2026</span></div><div class="exp-org">IEEE Access</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">Power System Decision Making in the Age of Deep Learning: A Comprehensive Review</span><span class="exp-date">2025</span></div><div class="exp-org">Energies</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">Locational Scenario-based Pricing in a Bilateral Distribution Energy Market under Uncertainty</span><span class="exp-date">2025</span></div><div class="exp-org">Applied Energy</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">Graph-based Large Scale Probabilistic PV Power Forecasting Insensitive to Space-Time Missing Data</span><span class="exp-date">2024</span></div><div class="exp-org">IEEE Transactions on Sustainable Energy</div><div class="exp-authors"><span class="self-author">Keunju Song</span>, Minsoo Kim, Hongseok Kim</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">AnyCast: Efficient Graph Learning for Large-Scale PV Power Forecasting with Extreme Missing Data</span><span class="exp-date">2024</span></div><div class="exp-org">IEEE SmartGridComm</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">Convolutional Autoencoder-Based Anomaly Detection for Photovoltaic Power Forecasting of Virtual Power Plants</span><span class="exp-date">2023</span></div><div class="exp-org">Energies</div></div>
+<div class="exp-card"><div class="exp-card-header"><span class="exp-role">DTTrans: PV Power Forecasting Using Delaunay Triangulation and TransGRU</span><span class="exp-date">2022</span></div><div class="exp-org">Sensors <a class="paper-tag" href="https://github.com/KeunJuSong/DTTrans">Code</a></div></div>
+</div>
