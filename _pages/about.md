@@ -35,7 +35,7 @@ I received my B.S. degree in Electronic Engineering from the **Tech University o
 
 <div class="exp-cards">
   <div class="exp-card exp-card-with-logo">
-    <img class="exp-logo" src="https://raw.githubusercontent.com/Zeesh-an/Zeesh-an.github.io/master/images/logos/argonne.png" alt="Argonne National Laboratory logo" />
+    <img class="exp-logo" src="https://raw.githubusercontent.com/Zeesh-an/Zeesh-an.github.io/master/images/logos/argonne.png" onerror="this.onerror=null;this.src='/images/logos/argonne.svg';" alt="Argonne National Laboratory logo" />
     <div class="exp-card-body">
       <div class="exp-card-header"><span class="exp-role">Visiting Graduate Student</span><span class="exp-date">2025</span></div>
       <div class="exp-org">Argonne National Laboratory · Mathematics and Computer Science Division</div>
@@ -43,7 +43,7 @@ I received my B.S. degree in Electronic Engineering from the **Tech University o
     </div>
   </div>
   <div class="exp-card exp-card-with-logo">
-    <img class="exp-logo exp-logo-crest" src="https://scc.sogang.ac.kr/wwwe/images/about/img_symbols_01.png" alt="Sogang University symbol" />
+    <img class="exp-logo exp-logo-crest" src="https://scc.sogang.ac.kr/wwwe/images/about/img_symbols_01.png" onerror="this.onerror=null;this.src='/images/logos/sogang.svg';" alt="Sogang University symbol" />
     <div class="exp-card-body">
       <div class="exp-card-header"><span class="exp-role">Ph.D. Candidate · Electronic Engineering</span><span class="exp-date">2021 – Present</span></div>
       <div class="exp-org">Sogang University · NICELAB</div>
