@@ -4,8 +4,6 @@ permalink: /
 title: "Keunju Song"
 ---
 
-# Keunju Song
-
 Hi there! I am a Ph.D. candidate in Electronic Engineering at **Sogang University** and a member of **NICELAB**. My research focuses on **energy AI, power systems, graph neural networks, physics-informed learning, and foundation models**. I am particularly interested in scalable and transferable AI methods that respect the topology and physical constraints of real power systems.
 
 I received my B.S. degree in Electronic Engineering from the **Tech University of Korea** in 2021. In 2025, I worked as a visiting graduate student at **Argonne National Laboratory**, contributing to physics-informed graph learning and grid foundation-model research for AC optimal power flow.
@@ -36,8 +34,22 @@ I received my B.S. degree in Electronic Engineering from the **Tech University o
 {: #experience }
 
 <div class="exp-cards">
-  <div class="exp-card"><div class="exp-card-header"><span class="exp-role">Visiting Graduate Student</span><span class="exp-date">2025</span></div><div class="exp-org">Argonne National Laboratory · Mathematics and Computer Science Division</div><div class="exp-authors">Physics-informed graph learning, hierarchical federated learning, and grid foundation models for AC-OPF.</div></div>
-  <div class="exp-card"><div class="exp-card-header"><span class="exp-role">Ph.D. Candidate · Electronic Engineering</span><span class="exp-date">2021 – Present</span></div><div class="exp-org">Sogang University · NICELAB</div><div class="exp-authors">Energy AI, power-system optimization, graph neural networks, and renewable-energy forecasting.</div></div>
+  <div class="exp-card exp-card-with-logo">
+    <img class="exp-logo" src="https://raw.githubusercontent.com/Zeesh-an/Zeesh-an.github.io/master/images/logos/argonne.png" alt="Argonne National Laboratory logo" />
+    <div class="exp-card-body">
+      <div class="exp-card-header"><span class="exp-role">Visiting Graduate Student</span><span class="exp-date">2025</span></div>
+      <div class="exp-org">Argonne National Laboratory · Mathematics and Computer Science Division</div>
+      <div class="exp-authors">Physics-informed graph learning, hierarchical federated learning, and grid foundation models for AC-OPF.</div>
+    </div>
+  </div>
+  <div class="exp-card exp-card-with-logo">
+    <img class="exp-logo exp-logo-crest" src="https://scc.sogang.ac.kr/wwwe/images/about/img_symbols_01.png" alt="Sogang University symbol" />
+    <div class="exp-card-body">
+      <div class="exp-card-header"><span class="exp-role">Ph.D. Candidate · Electronic Engineering</span><span class="exp-date">2021 – Present</span></div>
+      <div class="exp-org">Sogang University · NICELAB</div>
+      <div class="exp-authors">Energy AI, power-system optimization, graph neural networks, and renewable-energy forecasting.</div>
+    </div>
+  </div>
 </div>
 
 ## Publications
