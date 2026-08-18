@@ -30,7 +30,7 @@ I received my B.S. degree in Electronic Engineering from the **Tech University o
   <div class="research-row"><strong>Renewable Energy Intelligence</strong><span>Spatiotemporal probabilistic forecasting, missing-data robustness, and uncertainty-aware renewable generation learning.</span></div>
 </div>
 
-## Experience
+## Work Experience
 {: #experience }
 
 <div class="exp-cards">
@@ -55,13 +55,6 @@ I received my B.S. degree in Electronic Engineering from the **Tech University o
 </div>
 
 <p class="section-more"><a href="/publications/">View full publication list →</a></p>
-
-## Selected Projects
-
-- **National Power Grid Optimization with Hardware-Accelerated Physics-Informed Neural Networks** — NRF Korea, 2025–
-- **AI for AC Optimal Power Flow** — Korea Power Exchange (KPX), 2024–2025
-- **HEFTCom24 — NICE_Forecast** — 11th overall and 3rd among student teams
-- **Home ESS Charge/Discharge Scheduling** — LG Electronics, 2023
 
 ## Awards
 {: #awards }
