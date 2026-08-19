@@ -4,7 +4,7 @@ permalink: /
 title: "Keunju Song"
 ---
 
-Hi there! I am an incoming senior researcher in Distributed Energy Research Center at **Korea Electronics Technology Institute (KETI)**. I received my Ph.D. degree in Electronic Engineering from **Sogang University** in 2026 and received my B.S. degree in Electronic Engineering from the **Tech University of Korea** in 2021. In 2025, I worked as a visiting graduate student at **Argonne National Laboratory**, contributing to physics-informed graph learning and grid foundation-model research for AC optimal power flow. 
+Hi there! I am an incoming senior researcher at **Korea Electronics Technology Institute (KETI)**. I received my Ph.D. degree in Electronic Engineering from **Sogang University** in 2026 and received my B.S. degree in Electronic Engineering from the **Tech University of Korea** in 2021. In 2025, I worked as a visiting graduate student at **Argonne National Laboratory**, contributing to physics-informed graph learning and grid foundation-model research for AC optimal power flow. 
 
 My research focuses on **energy AI, power systems, graph neural networks, physics-informed learning, and foundation models**. I am particularly interested in scalable and transferable AI methods that respect the topology and physical constraints of real power systems.
 
@@ -43,7 +43,7 @@ My research focuses on **energy AI, power systems, graph neural networks, physic
     </div>
   </div>
   <div class="exp-card exp-card-with-logo">
-    <img class="exp-logo" src="/images/logos/keti.png" onerror="this.onerror=null;this.src='/images/logos/keti.png';" alt="KETI logo" />
+    <img class="exp-logo" src="/images/logos/KETI.png" onerror="this.onerror=null;this.src='/images/logos/KETI.png';" alt="KETI logo" />
     <div class="exp-card-body">
       <div class="exp-card-header"><span class="exp-role">Senior Researcher</span><span class="exp-date">2026 Sep. ~ Present</span></div>
       <div class="exp-org">Korea Electronics Technology Institute · Distributed Energy Research Center</div>
