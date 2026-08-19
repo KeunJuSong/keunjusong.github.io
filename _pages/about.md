@@ -35,18 +35,18 @@ My research focuses on **energy AI, power systems, graph neural networks, physic
 
 <div class="exp-cards">
   <div class="exp-card exp-card-with-logo">
+    <img class="exp-logo" src="/images/logos/KETI.png" onerror="this.onerror=null;this.src='/images/logos/KETI.png';" alt="KETI logo" />
+    <div class="exp-card-body">
+      <div class="exp-card-header"><span class="exp-role">Senior Researcher</span><span class="exp-date">2026 Sep. ~ Present</span></div>
+      <div class="exp-org">Korea Electronics Technology Institute · Distributed Energy Research Center</div>
+    </div>
+  </div>
+  <div class="exp-card exp-card-with-logo">
     <img class="exp-logo" src="/images/logos/argonne.svg" onerror="this.onerror=null;this.src='/images/logos/argonne.svg';" alt="Argonne National Laboratory logo" />
     <div class="exp-card-body">
       <div class="exp-card-header"><span class="exp-role">Visiting Graduate Student</span><span class="exp-date">2025 Sep. ~ 2025 Nov.</span></div>
       <div class="exp-org">Argonne National Laboratory · Mathematics and Computer Science Division</div>
       <div class="exp-authors">Physics-informed graph learning, hierarchical federated learning, and grid foundation models for AC-OPF.</div>
-    </div>
-  </div>
-  <div class="exp-card exp-card-with-logo">
-    <img class="exp-logo" src="/images/logos/KETI.png" onerror="this.onerror=null;this.src='/images/logos/KETI.png';" alt="KETI logo" />
-    <div class="exp-card-body">
-      <div class="exp-card-header"><span class="exp-role">Senior Researcher</span><span class="exp-date">2026 Sep. ~ Present</span></div>
-      <div class="exp-org">Korea Electronics Technology Institute · Distributed Energy Research Center</div>
     </div>
   </div>
 </div>
